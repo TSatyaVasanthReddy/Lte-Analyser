@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/vasanthreddy/Library/Android/sdk/extras/google/google_play_services/libproject/google-play-services_lib/LTESignalInfo/app/build/intermediates/exploded-aar/LTESignalInfo/GraphView/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ef1732b72667b283c2f550274c0149a96aef4c46">
+        <dex dex="/Users/vasanthreddy/Library/Android/sdk/extras/google/google_play_services/libproject/google-play-services_lib/LTESignalInfo/app/build/intermediates/pre-dexed/debug/LTESignalInfo-GraphView-unspecified_558cf6e6cfec0c9ebfb6ec0c8bf7563f465c4afa.jar" />
+    </item>
+
+</items>

@@ -8,12 +8,12 @@
         "source": "/Users/vasanthreddy/Library/Android/sdk/extras/google/google_play_services/libproject/google-play-services_lib/LTESignalInfo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/vasanthreddy/Library/Android/sdk/extras/google/google_play_services/libproject/google-play-services_lib/LTESignalInfo/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/vasanthreddy/Library/Android/sdk/extras/google/google_play_services/libproject/google-play-services_lib/LTESignalInfo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
         "merged": "/Users/vasanthreddy/Library/Android/sdk/extras/google/google_play_services/libproject/google-play-services_lib/LTESignalInfo/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
         "source": "/Users/vasanthreddy/Library/Android/sdk/extras/google/google_play_services/libproject/google-play-services_lib/LTESignalInfo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/vasanthreddy/Library/Android/sdk/extras/google/google_play_services/libproject/google-play-services_lib/LTESignalInfo/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/vasanthreddy/Library/Android/sdk/extras/google/google_play_services/libproject/google-play-services_lib/LTESignalInfo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "/Users/vasanthreddy/Library/Android/sdk/extras/google/google_play_services/libproject/google-play-services_lib/LTESignalInfo/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
